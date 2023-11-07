@@ -1,6 +1,7 @@
 {
   "main": "dist/index.js",
   "name": "@momoci99/test-common-ui",
+  "author": "momoci99",
   "version": "1.0.4",
   "type": "module",
   "files": [
